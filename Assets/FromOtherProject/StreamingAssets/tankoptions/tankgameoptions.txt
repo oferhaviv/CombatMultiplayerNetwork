@@ -1,0 +1,5 @@
+Hello! This is just the options for the tank game saved because it is annoying changing them every time. 
+True
+1
+False
+True
